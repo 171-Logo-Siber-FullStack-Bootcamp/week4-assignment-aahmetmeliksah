@@ -12,3 +12,9 @@ For read-only, you do not have assign value but in constructor, you must assing 
 ## HW
 
 Make the same structure that lecturer has done in the class. make sure you include comments in your code!!!
+
+## Study these for next class
+
+Middleware, how to differentiate something with middleware in express
+Express web development, how it works, how to publish it, how to publish it on Docker
+Look at Mongo and neo4j
