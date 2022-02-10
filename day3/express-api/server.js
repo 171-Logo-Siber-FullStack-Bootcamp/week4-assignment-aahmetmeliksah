@@ -1,15 +1,22 @@
-const express = require("express");
+const express = require("express"); //imported express
+
+// create an app using express
 const app = express();
+
+/* 
+import data from these files. I took the data from https://jsonplaceholder.typicode.com/ and 
+copy pasted
+*/
 const posts = require("./data/posts.json");
 const users = require("./data/users.json");
 
 /*
-    app.get() method takes two parameters. First one is the route. What URL the user enters. Second one is a callback func that takes two parameters; req and res in respective order.
+    app.get() method takes two parameters. First one is the route. What URL the user enters. Second one is a callback function that takes two parameters; req and res in respective order.
 
     res.send() method sends what you want to send to the page 
 
     req.query() returns an object. More, that catches specific things. For example, 
-    localhost:3000/posts?id=7, yeah you need God darn query for the part that is after question mark :) 
+    localhost:3000/posts?id=7. Yeah you need God darn query for the part that is after question mark :) 
     req.query.id is exactly match for the id part 
 */
 app.get("/posts", (req, res) => {
