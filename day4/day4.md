@@ -50,7 +50,7 @@ He wants:
   **When the application starts, the lecturer wants to see these _ALL OF THEM_**
   How to do it:
 
-  - watch [this](https://www.youtube.com/watch?v=xx5XsBzGUOM) from 58:53
+  - watch[this](https://www.youtube.com/watch?v=xx5XsBzGUOM) from 58:53
   - you need to do it from the firebase part
 
   open your project on firebase
