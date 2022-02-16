@@ -1,11 +1,11 @@
+import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-
-const people = ["Ahmet", " ", "Mehmet", " ", "Ali", " ", "Veli"];
+import Login_screen from "./src/screens/login_screen";
 
 export default function App() {
   return (
     <View style={style.container}>
-      <Text>{people}</Text>
+      <Login_screen />
     </View>
   );
 }

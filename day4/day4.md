@@ -26,7 +26,9 @@ BABELI ARASTIR
 expo.dev den bir hesap ac
 app.json react native icin arastir
 
-Proximity design pattern
+Proximity design pattern - strategy design pattern **check this** it provides the foundation of how to structure type of designs and structures- _you gotta dive deeper by the way because lecturer said this to us_
+
+Look at iteration design pattern
 
 https://www.udemy.com/course/oyunlastirma/
 
@@ -47,5 +49,8 @@ He wants:
 - JSON place holder post list
   **When the application starts, the lecturer wants to see these _ALL OF THEM_**
   How to do it:
+
   - watch [this](https://www.youtube.com/watch?v=xx5XsBzGUOM) from 58:53
   - you need to do it from the firebase part
+
+  open your project on firebase
