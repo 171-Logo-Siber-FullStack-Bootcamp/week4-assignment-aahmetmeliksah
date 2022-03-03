@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import ScrollComponent from "./Components/ScrollComponent.vue";
+import ScrollComponent from "./components/ScrollComp.vue";
 import WrapperComponentIndex from "./components/ContentWrapper/WrapperComponentIndex.vue";
 import LogoutComponent from "./Components/LogoutComponent.vue";
 export default {
