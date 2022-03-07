@@ -36,8 +36,6 @@
 </template>
 
 <script>
-// import SideBar from './components/SideBar'
-// import TopBar from './components/TopBar'
 import FooterComp from "./components/FooterComp.vue";
 import ContentComp from "./components/ContentComp.vue";
 import LogoutComp from "./components/LogOutComp.vue";
